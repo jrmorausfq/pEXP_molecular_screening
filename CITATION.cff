@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pEXP Molecular Screening"
+type: software
+authors:
+  - family-names: "Mora"
+    given-names: "José R."
+    affiliation: "Universidad San Francisco de Quito"
+abstract: "Python workflow for molecular screening of pEXP using Scikit-learn, PaDEL APC2D descriptors, selected RDKit descriptors, a common applicability-domain filter, and pre-trained scikit-learn regression and classification models."
+keywords:
+  - pEXP
+  - molecular screening
+  - QSAR
+  - chemoinformatics
+  - ToMoCoMD
+  - PaDEL
+  - RDKit
+  - scikit-learn
+  - applicability domain
+license: MIT
+version: 1.0.0
+date-released: 2026-06-21
+repository-code: "https://github.com/jrmorausfq/pEXP_molecular_screening"
+url: "https://github.com/jrmorausfq/pEXP_molecular_screening"
+
+# After archiving the GitHub release in Zenodo, add the DOI here, for example:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
