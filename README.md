@@ -236,7 +236,7 @@ For a reproducible release, report or archive the following:
 
 ## Citation
 
-If you use this software, please cite the archived Zenodo release. After Zenodo assigns a DOI, update this section:
+Zenodo:
 
 ```text
 Mora, J. R. pEXP Molecular Screening. Version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.20787378
