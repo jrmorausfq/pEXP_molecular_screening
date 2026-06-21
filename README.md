@@ -234,25 +234,12 @@ For a reproducible release, report or archive the following:
 
 ---
 
-## Zenodo archiving workflow
-
-1. Push the repository to GitHub.
-2. Add `CITATION.cff`, `LICENSE`, `README.md`, and `environment.yml` to the repository root.
-3. Create a GitHub release, for example `v1.0.0`.
-4. Link the GitHub repository with Zenodo.
-5. Archive the GitHub release in Zenodo.
-6. Copy the DOI assigned by Zenodo.
-7. Update the citation section below and, if desired, add the DOI to `CITATION.cff`.
-8. Create a new GitHub release after updating the metadata.
-
----
-
 ## Citation
 
 If you use this software, please cite the archived Zenodo release. After Zenodo assigns a DOI, update this section:
 
 ```text
-Mora, J. R. pEXP Molecular Screening. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20787378
+Mora, J. R. pEXP Molecular Screening. Version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.20787378
 ```
 
 GitHub should also display a **Cite this repository** button when `CITATION.cff` is present in the repository root.
