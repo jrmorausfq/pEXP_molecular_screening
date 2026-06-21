@@ -22,8 +22,5 @@ version: 1.1.0
 date-released: 2026-06-21
 repository-code: "https://github.com/jrmorausfq/pEXP_molecular_screening"
 url: "https://github.com/jrmorausfq/pEXP_molecular_screening"
-
-# After archiving the GitHub release in Zenodo, add the DOI here, for example:
-# identifiers:
-#   - type: doi
-#     value: "10.5281/zenodo.20787378"
+Zenodo:
+Mora, J. R. pEXP Molecular Screening. Version 1.1.0. Zenodo. https://doi.org/10.5281/zenodo.20787378
