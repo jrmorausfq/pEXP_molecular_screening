@@ -252,7 +252,7 @@ For a reproducible release, report or archive the following:
 If you use this software, please cite the archived Zenodo release. After Zenodo assigns a DOI, update this section:
 
 ```text
-Mora, J. R. pEXP Molecular Screening. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20787217
+Mora, J. R. pEXP Molecular Screening. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20787378
 ```
 
 GitHub should also display a **Cite this repository** button when `CITATION.cff` is present in the repository root.
