@@ -60,6 +60,7 @@ pEXP-molecular-screening/
 ```
 
 ---
+Due to its large size, the file “training_AD.csv” is not publicly available but may be provided by José Mora (jrmora@usfq.edu.ec) upon reasonable request.
 
 ## System requirements
 
